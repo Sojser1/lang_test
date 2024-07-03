@@ -2286,5 +2286,12 @@
     "footer": {
         "cooperationGo": "Жми",
         "cooperationText": "Стример или Блогер? Давай сотрудничать. TEST WORD"
+    },
+    "a": {
+        "a": {
+            "a": {
+                "test": "123"
+            }
+        }
     }
 }
